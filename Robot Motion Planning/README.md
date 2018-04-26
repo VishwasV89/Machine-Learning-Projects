@@ -25,3 +25,4 @@ This project is inspired from an event ‘Micromouse Competitions’ where a sma
 python tester.py mazes\test_maze_01.txt
 
 ### Note:
+tester.py has been modified slightly to call the showmaze.py module to visualize the robot's movements. However, the previous logic to run and test the robot remains the same.

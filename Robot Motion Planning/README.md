@@ -23,3 +23,5 @@ This project is inspired from an event ‘Micromouse Competitions’ where a sma
 
 ### To run the tester:
 python tester.py mazes\test_maze_01.txt
+
+### Note:
